@@ -3,7 +3,7 @@
       font-family: 'Arial', sans-serif;
       margin: 20px;
     }
-
+    /* cart-item */
     .cart-item {
       display: flex;
       justify-content: space-between;
@@ -21,6 +21,7 @@
     .heart-icon {
       color: rgb(228, 31, 31);
       cursor: pointer;
+        /* heart-icon ; */
     }
 
     .quantity {
