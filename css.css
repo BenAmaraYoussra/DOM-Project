@@ -1,0 +1,44 @@
+
+    body {
+      font-family: 'Arial', sans-serif;
+      margin: 20px;
+    }
+
+    .cart-item {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 10px;
+      border-bottom: 1px solid #c06c6c;
+      padding-bottom: 5px;
+    }
+
+    button{
+      margin: 10px
+      /* background-color: #b92965; */
+    }
+
+    .heart-icon {
+      color: rgb(228, 31, 31);
+      cursor: pointer;
+    }
+
+    .quantity {
+      display: flex;
+      align-items: center;
+    }
+
+    .total {
+      margin-top: 20px;
+      font-weight: bold;
+
+      button:hover {
+        background-color: #b92965;
+    }
+  }
+
+
+.pic{
+  width: 250px;
+  height: 250px;
+}
